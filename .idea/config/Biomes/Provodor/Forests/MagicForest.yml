@@ -1,0 +1,14 @@
+ID: magicForest
+
+type: BIOME
+extends:
+  - ORES_DEFAULT
+
+vanilla: minecraft:forest
+terrain:
+  sampler:
+    type: LINEAR_HEIGHTMAP
+    base: 64
+palette:
+  - BLOCK:minecraft:stone: 319
+

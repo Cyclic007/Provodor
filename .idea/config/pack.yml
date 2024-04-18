@@ -1,0 +1,14 @@
+id: Provodor
+
+version: 0.1.0
+author: Cyclic
+
+addons:
+  language-yaml: 1.+
+  chunk-generator-noise-3d: 1.+
+  config-noise-function: 1.+
+  palette-block-shortcut: 1.+
+biomes:
+  type: SINGLE
+  biome: magicForest
+generator: NOISE_3D
