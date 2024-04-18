@@ -8,8 +8,23 @@ extends:
 vanilla: minecraft:forest
 terrain:
   sampler:
+    salt: 100
     type: LINEAR_HEIGHTMAP
     base: 64
 palette:
   - BLOCK:minecraft:stone: 319
-
+layers:
+  - # Single layer of grass and dirt blocks
+    layers: 1
+    materials:
+      - "minecraft:grass_block": 1
+      - "minecraft:coarse_dirt": 1
+    sampler:
+      type: OPEN_SIMPLEX_2
+      frequency: 0.05
+  - # Two layers of dirt below the top layer
+    layers: 2
+    materials: "minecraft:dirt"
+  - # Then finally stone
+    layers: 1
+    materials: "minecraft:stone"

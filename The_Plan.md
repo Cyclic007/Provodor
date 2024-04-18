@@ -1,0 +1,13 @@
+4 Zones
+
+6 "biomes" each zone swapped out at random
+
+Sea
+
+Earth
+
+Wasteland
+
+Forests
+
+magic forest
