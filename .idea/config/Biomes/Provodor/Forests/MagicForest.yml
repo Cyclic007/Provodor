@@ -19,6 +19,7 @@ layers:
       - "minecraft:small_amethyst_bud": 1
       - "minecraft:large_amethyst_bud": 3
     sampler:
+      salt: 65
       type: OPEN_SIMPLEX_2
       frequency: 0.05
       layers: 2
