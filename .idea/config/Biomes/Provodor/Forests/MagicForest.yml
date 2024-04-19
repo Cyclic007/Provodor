@@ -14,7 +14,14 @@ terrain:
 palette:
   - BLOCK:minecraft:stone: 319
 layers:
-  - # Single layer of grass and dirt blocks
+    layers: 1
+    materials:
+      - "minecraft:small_amethyst_bud": 1
+      - "minecraft:large_amethyst_bud": 3
+    sampler:
+      type: OPEN_SIMPLEX_2
+      frequency: 0.05
+      layers: 2
     layers: 1
     materials:
       - "minecraft:grass_block": 1
@@ -22,9 +29,7 @@ layers:
     sampler:
       type: OPEN_SIMPLEX_2
       frequency: 0.05
-  - # Two layers of dirt below the top layer
-    layers: 2
+      layers: 2
     materials: "minecraft:dirt"
-  - # Then finally stone
     layers: 1
     materials: "minecraft:stone"
