@@ -1,15 +1,19 @@
-4 Zones
+4 Zones / Types
 
 6 "biomes" each zone swapped out at random
+
 
 Sea
 
 
+
 Earth
 
+mt. celeste
 
 Wasteland
 
+moredor
 
 Forests
 
