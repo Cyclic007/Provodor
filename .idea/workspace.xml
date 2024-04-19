@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c997edc-f3a6-4a02-9242-a20b73df37ec" name="Changes" comment="changed frequency" />
+    <list default="true" id="7c997edc-f3a6-4a02-9242-a20b73df37ec" name="Changes" comment="added the License">
+      <change beforePath="$PROJECT_DIR$/.idea/config/Biomes/Provodor/Forests/MagicForest.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/config/Biomes/Provodor/Forests/MagicForest.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sebas/IdeaProjects/Provodor"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sebas\IdeaProjects\Provodor" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713534675860</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changed frequency">
+      <option name="closed" value="true" />
+      <created>1713534854509</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713534854509</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added the License">
+      <option name="closed" value="true" />
+      <created>1713534877479</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713534877479</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,6 +116,7 @@
     <MESSAGE value="changed MagicForest.yml" />
     <MESSAGE value="added salt" />
     <MESSAGE value="changed frequency" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed frequency" />
+    <MESSAGE value="added the License" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the License" />
   </component>
 </project>

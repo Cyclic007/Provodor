@@ -17,6 +17,7 @@ layers:
     layers: 1
     materials:
       - "minecraft:small_amethyst_bud": 1
+      - "minecraft:medium_amethyst_bud": 2
       - "minecraft:large_amethyst_bud": 3
     sampler:
       salt: 65
