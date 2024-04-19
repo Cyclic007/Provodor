@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c997edc-f3a6-4a02-9242-a20b73df37ec" name="Changes" comment="added salt" />
+    <list default="true" id="7c997edc-f3a6-4a02-9242-a20b73df37ec" name="Changes" comment="changed frequency" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,13 +76,22 @@
       <option name="project" value="LOCAL" />
       <updated>1713534141722</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed frequency">
+      <option name="closed" value="true" />
+      <created>1713534675860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713534675860</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="changed MagicForest.yml" />
     <MESSAGE value="added salt" />
-    <option name="LAST_COMMIT_MESSAGE" value="added salt" />
+    <MESSAGE value="changed frequency" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed frequency" />
   </component>
 </project>
