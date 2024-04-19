@@ -1,0 +1,7 @@
+ID: MtCeleste
+
+type: BIOME
+extends:
+  - ORES_DEFAULT
+  - config-feature
+vanilla: minecraft:frozen_peaks
