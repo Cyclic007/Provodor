@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c997edc-f3a6-4a02-9242-a20b73df37ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Provodor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/config/Biomes/Provodor/Forests/MagicForest.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/config/Biomes/Provodor/Forests/MagicForest.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7c997edc-f3a6-4a02-9242-a20b73df37ec" name="Changes" comment="added salt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,9 +52,29 @@
       <option name="presentableId" value="Default" />
       <updated>1713454969065</updated>
     </task>
+    <task id="LOCAL-00001" summary="changed MagicForest.yml">
+      <option name="closed" value="true" />
+      <created>1713533749920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713533749920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added salt">
+      <option name="closed" value="true" />
+      <created>1713534079132</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713534079132</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="changed MagicForest.yml" />
+    <MESSAGE value="added salt" />
+    <option name="LAST_COMMIT_MESSAGE" value="added salt" />
   </component>
 </project>
