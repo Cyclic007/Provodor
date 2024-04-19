@@ -21,7 +21,7 @@ layers:
     sampler:
       salt: 65
       type: OPEN_SIMPLEX_2
-      frequency: 0.05
+      frequency: 3
       layers: 2
     layers: 1
     materials:
