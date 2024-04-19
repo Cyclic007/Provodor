@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c997edc-f3a6-4a02-9242-a20b73df37ec" name="Changes" comment="added the License">
-      <change beforePath="$PROJECT_DIR$/.idea/config/Biomes/Provodor/Forests/MagicForest.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/config/Biomes/Provodor/Forests/MagicForest.yml" afterDir="false" />
+    <list default="true" id="7c997edc-f3a6-4a02-9242-a20b73df37ec" name="Changes" comment="&#10;genaric commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713534877479</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&#10;genaric commit">
+      <option name="closed" value="true" />
+      <created>1713536015580</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713536015580</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -117,6 +125,7 @@
     <MESSAGE value="added salt" />
     <MESSAGE value="changed frequency" />
     <MESSAGE value="added the License" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the License" />
+    <MESSAGE value="&#10;genaric commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;genaric commit" />
   </component>
 </project>
