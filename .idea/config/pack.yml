@@ -25,9 +25,55 @@ addons:
   palette-block-shortcut: "1.+"
   structure-block-shortcut: "1.+"
   terrascript-function-sampler: "1.+"
+stages:
+  - id: landforms
+    type: FEATURE
+  - id: trees
+    type: FEATURE
+  - id: flora
+    type: FEATURE
+  - id: ores
+    type: FEATURE
 
-
-biomes:
-  type: SINGLE
-  biome: magicForest
+biomes: $Settings.yml:BiomePool
+stages:
+  - type: REPLACE
+    from: overworld
+    to: $Settings.yml:BiomePool
+    sampler:
+      dimensions: 2
+      type: CELLULAR
+      return: CellValue
+      salt: 69420101
+      frequency: 0.03
+  - type: FRACTAL_EXPAND
+    sampler:
+      type: WHITE_NOISE
+  - type: FRACTAL_EXPAND
+    sampler:
+      type: WHITE_NOISE
+  - type: FRACTAL_EXPAND
+    sampler:
+      type: WHITE_NOISE
+  - type: SMOOTH
+    sampler:
+      type: WHITE_NOISE
+  - type: SMOOTH
+    sampler:
+      type: WHITE_NOISE
+  - type: SMOOTH
+    sampler:
+      type: WHITE_NOISE
+  - type: SMOOTH
+    sampler:
+      type: WHITE_NOISE
+  - type: SMOOTH
+    sampler:
+      type: WHITE_NOISE
+  - type: SMOOTH
+    sampler:
+      type: WHITE_NOISE
+  - type: SMOOTH
+    sampler:
+      type: WHITE_NOISE
 generator: NOISE_3D
